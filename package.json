@@ -1,6 +1,6 @@
 {
   "name": "data-type",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "check your data type",
   "main": "index.js",
   "scripts": {
