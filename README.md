@@ -1,4 +1,4 @@
-# client-ajax
+# data-type
 ---
 [![npm][npm-image]][npm-url]
 
@@ -84,4 +84,4 @@ npm test
 
 ## License
 
-client-ajax is released under the MIT license.
+data-type is released under the MIT license.
