@@ -1,6 +1,6 @@
 {
   "name": "data-type",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "check your data type",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liaozhongwu95/data-type.git"
+    "url": "git+https://github.com/liaozhongwu/data-type.git"
   },
   "keywords": [
     "dataType",
@@ -21,9 +21,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/liaozhongwu95/data-type/issues"
+    "url": "https://github.com/liaozhongwu/data-type/issues"
   },
-  "homepage": "https://github.com/liaozhongwu95/data-type#readme",
+  "homepage": "https://github.com/liaozhongwu/data-type#readme",
   "devDependencies": {
     "promise": "^7.1.1",
     "test": "^0.6.0"
